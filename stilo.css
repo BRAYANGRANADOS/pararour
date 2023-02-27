@@ -1,0 +1,43 @@
+div{
+    background-color: brown;
+    /*display: inline;*/
+    display: block;
+    margin: 3px;
+    padding: 5px;
+    border: solid black 5px;
+    
+    position: relative;
+    left: 100px;
+}
+details{
+    font-size: 15pt;
+   color: thistle;
+   margin-left: 25%;
+}
+*{
+    margin: 0;
+    background-color: coral;
+}
+
+ .dp{
+    color: blue;
+  
+}
+.fx{
+    color: black;
+}
+.dp:hover{
+    color: blueviolet;
+    background-color: black;
+}
+
+.cosas{
+    width: 20%;
+    height: 60px;
+    display: block;
+    position: relative;
+    left:0px;
+    display: flex;
+    
+    
+}
